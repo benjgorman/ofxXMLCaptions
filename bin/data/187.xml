@@ -1,0 +1,27 @@
+<keyframes>
+    <key>
+        <flag>which</flag>
+        <time>00:00:00:920</time>
+        <endtime>00:00:01:210</endtime>
+        <value>1</value>
+        <phonemic_translation>
+            <phoneme>W</phoneme>
+            <phoneme>IH</phoneme>
+            <phoneme>CH</phoneme>
+        </phonemic_translation>
+    </key>
+    <key>
+        <flag>warrant</flag>
+        <time>00:00:01:330</time>
+        <endtime>00:00:02:000</endtime>
+        <value>1</value>
+        <phonemic_translation>
+            <phoneme>W</phoneme>
+            <phoneme>AO</phoneme>
+            <phoneme>R</phoneme>
+            <phoneme>AH</phoneme>
+            <phoneme>N</phoneme>
+            <phoneme>T</phoneme>
+        </phonemic_translation>
+    </key>
+</keyframes>
